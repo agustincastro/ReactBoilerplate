@@ -14,14 +14,14 @@ To run the boilerplate:
 
 1. Install the necessary npm moduler (Create node_modules folder):
 
-npm install
+⋅⋅⋅_npm install_⋅⋅⋅
 
 2. Bundle everything with webpack:
 
-webpack
+⋅⋅⋅_webpack_⋅⋅⋅
 
 3. Run the express server:
 
-node server.js
+⋅⋅⋅_node server.js_⋅⋅⋅
 
 4. Go to http://localhost:3000/ and enjoy!
