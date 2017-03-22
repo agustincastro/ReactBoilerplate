@@ -1,14 +1,9 @@
 
-//Variables
-$space-large: 2.5rem;
-$title-color: #555;
+@import "base/variables";
 
-.page-title{
-  color: $title-color;
-  margin-top: $space-large;
-  margin-bottom: $space-large;
-}
+// Foundation
+@import "base/foundation-settings";
+@import "foundation";
+@include foundation-everything;
 
-input[type=search]{
-  box-shadow: none;
-}
+// Components
