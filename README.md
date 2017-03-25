@@ -13,7 +13,7 @@ Boilerplate project to start React apps, the project contains the following:
 
 To run the boilerplate:
 
-1. Install the necessary npm moduler (Create node_modules folder):
+1. Install the necessary npm modules (Create node_modules folder):
 
   *npm install*
 
